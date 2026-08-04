@@ -1,0 +1,4 @@
+1/ เพิม Javaseriet สำหรับการได้ตอบกับหู่ ปี (0p-10034)
+document addeventlistener barkontentloaded ,tunction (
+    console.log('Protfolio ของ Sutthimas พร้อมแล้ว!');
+});
