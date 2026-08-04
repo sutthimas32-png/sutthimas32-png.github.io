@@ -1,4 +1,0 @@
-// เพิ่ม Javaseriet สำหรับการได้ตอบกับหู่ ปี (Optional)
-document addeventlistener barkontentloaded ,tunction (
-    console.log('Protfolio ของ Sutthimas พร้อมแล้ว!');
-});
